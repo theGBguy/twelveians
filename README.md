@@ -14,8 +14,9 @@
 ![GitHub license](https://img.shields.io/github/license/theGBguy/twelveians)
 ![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcgb_pandey)
 
-An android application targetted to photo bloggers to upload photo as their blog content in a swift manner. 
-Uses Imgur to store images anonymously and Google's Blogger to upload the blog posts.
+An android application demo targetted to photo bloggers to upload photo as their blog content in a swift manner. 
+Uses Imgur to store images anonymously and Google's Blogger to upload the blog posts which usually contains images.
+Originally made for [Twelveians](https://twelveians.netrakc.com.np/) to let the admin post his content quickly.
 
 ## Prerequisites to use this project
 
@@ -28,13 +29,22 @@ Before you begin, ensure you have met the following requirements:
 
 ## Credential configuration
 
-Create "credentials.properties" file in the root project directory in the following format: 
+Create **"secrets.properties"** file in the root project directory in the following format: 
+<pre><code>
+// Blog id of the blog to communicate with blogger api.
+BLOG_ID="YOUR_BLOGGER_BLOG_ID_HERE"
 
+// Client id of the imgur to communicate with imgur endpoints.
+CLIENT_ID="YOUR_IMGUR_CLIENT_ID_HERE"
+</pre></code>
 
+These keys will be used to communicate with Imgur and Blogger endpoints.
 
 ## Author
 
 [theGBguy](https://github.com/theGBguy)
+
+If you like this project, please star this project to encourage the author and fork it in case you need additional features.
 
 ## Contact
 
