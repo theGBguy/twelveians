@@ -40,6 +40,11 @@ CLIENT_ID="YOUR_IMGUR_CLIENT_ID_HERE"
 
 These keys will be used to communicate with Imgur and Blogger endpoints.
 
+## Technology used
+* Jetpack Compose
+* Imgur API
+* Blogger API
+
 ## Author
 
 [theGBguy](https://github.com/theGBguy)
