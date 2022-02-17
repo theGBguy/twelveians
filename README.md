@@ -12,7 +12,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/theGBguy/twelveians?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/theGBguy/twelveians?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/theGBguy/twelveians?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcgb_pandey)
 
 An android application demo targetted at photo bloggers to upload photo as their blog content in a swift manner. 
 Uses Imgur to store images anonymously and Google's Blogger to upload the blog posts which usually contains images.
