@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "twelveians-1644149177571",
+  "private_key_id": "ca83babb517f450cd148fa7512aef457f473b22e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpDCY3/qnltSC1\nHcVjcI2/7REy9bVWVmTHBSuGsjVh3zyHkv2YFMv665uaosvLvMmjKiieHB8crqOQ\n7j0mrY7+QT3Z3kMoLvIQ3dnbHbMVqDWvKli5BrwlqSiX45uHF0EPzYmYBgxAO3Nk\nJEEeMaYtplxF5KMyG30kdLAmDxeNWcsaRwpHOF1ReIBM+nU7G/pXJC2PE8Ew0Evy\nHY/Ed+bAKusTepHv+3e/wBfj8SZ4FM/HFZ8V4O3no2uUrJABFDpOvaQFkmu+Oa+6\neZFeq/6CbdWEo313sI+83VgiO2uZRSqhzIV5m+5FBE4SOofZwnb3hBZym/7k+Xyd\nXDg5ciVHAgMBAAECggEAFphk9rYSOn3Che2ZR9MwYeIg8DlPHYpbBQ5oBM8xex1Y\nx1xP4NyNbpgVyo5jrsioq6euby0eFs+HAGUVBQ73c9JU9Jfp97yH/Ct90PUVeK8X\noeFco4/xZRfzsOhU47J+2UsP+aMmpGKYkrQ/2fZ+mk/ID0riFLKqQE2yinEY+k+5\nvsrjD4ghjyXxyuS8m9hf8CRnpnPZWQYUV552HyIbk3HudMkiYkwX45GgvjEu0pFW\nIxjKopytbssxH03//gUVihUfcPnWAp3BofSfh0VOOWsaxIuwwS24/u8h75lFEuyH\nZhvw68kaum/p/pWa3M6vscjnFYGmCKsJxpIT07ZeSQKBgQDZlvWsfLfHxbq6ei6C\nZuDwKwq20WmN5qfVD5bFGXJVdo8Nl0LUKKkkfHnCs9wExfBylttec7bLEv14YTYk\nRpPtUjpG8+w8WdoZpshAoQaiNMQqbzr2absCZt1v2j7ox+2MpDlq9RusowsdxGgz\naZ/cQmAooP74/USQQeSkrE8OHwKBgQDG44e1WDNP/R3q5PGxESxrV7Jszc0yidcG\nagpct/YfCdiYnd8q0QPVRGi8Omzcz84QRGE53bCysqbgvbla8sU0fJa5VQDJJbuo\n7N7T7UqQ0BnG6lZ5B9taLxftvAjw3ux2MVck6PG1puc8uq8gN33/lzi4laNoS0gU\nOc4UE4Ez2QKBgCw+Y+oU2hHHBPcSDQ76+FYdimouHrZ55jqOluuxBuyV1PTAgxg8\nxFfk76VFiUF3NjM2tZh5Evwr+lpV+fpaV430IGF5C9ohsxVwMlvh4kVtUU4HnAeq\n7BnK7M/nos8WiBkG853qBRyPcp006LM7kQPqgz7/rZjXdu+WVnWdi92lAoGAEgtu\nsptP/H/giQFAlGoUd6C7RXfemCk9Yw2X5xWhtOs1xZL9Pms8R8svHXTHj7ki3wL1\nN0TP1Ua0MUvFV2UTU1HCcwotShKsVgU3qk6rJzxaOlvkgJKf6iy/pQgcX446MfcE\nCws/ctWzwSTG4stmGRxlPwoEi1/ZKEyeT9/9JvECgYBrmor4HgV3WTUEE7taj/VR\nXZ3FTmJOrN2qQ4aV/Am/EBv+ae8n7XYZ4ayR9X1HBvLG76r5HdEeir4KA4zLl54k\nyqezNDVSYFEEWKc5SDxAgquqBouW0uBECC8QDsYN7uAWoqOKKydKFu3LsLx0/YUC\nrpTa+Rut5axgydaN/8W3LA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "twelveians@twelveians-1644149177571.iam.gserviceaccount.com",
+  "client_id": "100192140581122527355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twelveians%40twelveians-1644149177571.iam.gserviceaccount.com"
+}
