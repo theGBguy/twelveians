@@ -17,6 +17,10 @@ An android application demo targetted at photo bloggers to upload photo as their
 Uses Imgur to store images anonymously and Google's Blogger to upload the blog posts which usually contains images.
 Originally made for [Twelveians](https://twelveians.netrakc.com.np/) to let the admin post his content quickly.
 
+## Screenshot
+
+<img src="https://user-images.githubusercontent.com/25641763/155286145-a9597ea8-112b-41b7-85b5-69e8f9725c33.jpg" alt="Twelveians" width="250"></a>
+
 ## Prerequisites to use this project
 
 Before you begin, ensure you have met the following requirements:
